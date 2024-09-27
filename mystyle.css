@@ -134,3 +134,10 @@ ul li p{
     font-style: italic;
     font-weight: bold;  
 }
+nav p {
+    text-align: center;
+    font-weight: bold;
+}
+main section {
+    text-align: center;
+}
